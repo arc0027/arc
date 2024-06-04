@@ -1,5 +1,5 @@
 <h1 align="center">
-        <samp>&gt; Hey👋, soy
+        <samp>&gt; Buenas👋, soy
                 <b>Álvaro</b>
         </samp>
 </h1>
