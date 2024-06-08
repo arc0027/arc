@@ -48,7 +48,6 @@ new Persona({
   </a>
 </p>
 
-<br/>
 
 
 
