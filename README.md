@@ -18,21 +18,20 @@ new Persona({
 })
 ```
 
-<h3 align="left">Competencias:</h3>
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react" />
+  </a>
+</p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java" />
   </a>
 </p>
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind" />
-  </a>
-</p>
 
 - Base de Datos
 <p align="left">
