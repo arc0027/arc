@@ -28,7 +28,7 @@ new Persona({
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java" />
+    <img src="https://skillicons.dev/icons?i=php,java" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@ new Persona({
 - Herramientas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=github,figma,vscode" />
   </a>
 </p>
 
