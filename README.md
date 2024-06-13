@@ -20,34 +20,12 @@ new Persona({
 })
 ```
 
-- Frontend
+<h2>🔧 Tools</h2>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=ts,js,react,php,laravel,jquery,java,mysql,postgresql,vite,sass,html,css,tailwind,bootstrap,npm,git,github,figma,postman,vscode,wordpress"  />
 </p>
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java" />
-  </a>
-</p>
-
-
-- Base de Datos
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-  </a>
-</p>
-
-- Herramientas
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,figma,vscode" />
-  </a>
-</p>
+<br>
 
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arodcho&show_icons=true&theme=gotham&hide=,prs,contribs" alt="arodcho" />
 
