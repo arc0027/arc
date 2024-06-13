@@ -36,12 +36,14 @@ new Persona({
 
  <br>
  
- <div align="center">
-         <img src="https://github-readme-stats.vercel.app/api?username=arodcho&show_icons=true&theme=gotham&hide=,prs,issues,contribs" alt="arodcho" />
-
+  <div align="center">
+          
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arodcho&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+ 
  </div>
  
- 
- 
-
-
+<!--
+ <div align="center">
+         <img src="https://github-readme-stats.vercel.app/api?username=arodcho&show_icons=true&theme=gotham&hide=,prs,issues,contribs" alt="arodcho" />
+ </div>
+ -->
