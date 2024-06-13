@@ -26,6 +26,8 @@ new Persona({
     <img src="https://skillicons.dev/icons?i=ts,js,react,php,laravel,jquery,java,mysql,postgresql,vite,sass,html,css,tailwind,bootstrap,npm,git,github,figma,postman,vscode,wordpress"  />
 </p>
 
+ <br>
+ 
 <div align="center">
         
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arodcho&repo=fullstackopen&bg_color=0d1116&title_color=259076&text_color=99d1ce&icon_color=259076)](https://github.com/arodcho/fullstackopen) 
