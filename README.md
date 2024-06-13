@@ -3,7 +3,9 @@
                 <b>Developing...</b>
         </samp>
 </h1>
-
+<p align="center">
+  <img src="https://socialify.git.ci/arodcho/arodcho/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="arodcho" width="700" height="300" />
+</p>
 
 <br />
 
