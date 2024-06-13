@@ -47,5 +47,5 @@ new Persona({
   </a>
 </p>
 
-
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arodcho&show_icons=true&theme=gotham&hide=,prs,contribs" alt="arodcho" />
 
