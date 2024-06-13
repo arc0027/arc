@@ -1,6 +1,6 @@
 <h1 align="center">
-        <samp>&gt; Buenas👋, soy
-                <b>Álvaro</b>
+        <samp>&gt; 💻
+                <b>Developing...</b>
         </samp>
 </h1>
 
@@ -46,7 +46,6 @@ new Persona({
     <img src="https://skillicons.dev/icons?i=github,figma,vscode" />
   </a>
 </p>
-
 
 
 
