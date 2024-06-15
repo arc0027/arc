@@ -30,9 +30,9 @@ new Persona({
  
 <div align="center">
         
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arodcho&repo=fullstackopen&bg_color=0d1116&title_color=259076&text_color=99d1ce&icon_color=259076)](https://github.com/arodcho/fullstackopen) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arodcho&repo=fullstackopen&bg_color=0d1116&title_color=259076&text_color=99d1ce&icon_color=259076)](https://github.com/arodcho/fullstackopen) 
 &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arodcho&repo=adventjs&bg_color=0d1116&title_color=259076&text_color=99d1ce&icon_color=259076)](https://github.com/arodcho/adventjs) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arodcho&repo=adventjs&bg_color=0d1116&title_color=259076&text_color=99d1ce&icon_color=259076)](https://github.com/arodcho/adventjs) 
   
 </div>
 
@@ -43,7 +43,8 @@ new Persona({
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arodcho&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
  
  </div>
- 
+
+
 <!--
  <div align="center">
          <img src="https://github-readme-stats.vercel.app/api?username=arodcho&show_icons=true&theme=gotham&hide=,prs,issues,contribs" alt="arodcho" />
