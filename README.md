@@ -22,9 +22,9 @@ new Persona({
 ```
 
 <h2>🔧 Tools</h2>
-<p align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=ts,js,react,php,laravel,jquery,java,mysql,postgresql,vite,sass,html,css,tailwind,bootstrap,npm,git,github,figma,postman,vscode,wordpress"  />
-</p>
+</div>
 
  <br>
  
