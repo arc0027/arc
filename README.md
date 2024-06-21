@@ -1,8 +1,8 @@
-<h1 align="center">
-        <samp>&gt; 💻
+<div align="center">
+        <h1>&gt; 💻
                 <b>Developing...</b>
-        </samp>
-</h1>
+        </h1>
+</div>
 
 <div align="center">
   <img src="https://socialify.git.ci/arodcho/arodcho/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="arodcho" width="650" height="250" />
